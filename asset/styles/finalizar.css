@@ -1,0 +1,26 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #b1b0b090;
+            padding: 30px;
+        }
+        .container {
+            background-color: rgb(55, 82, 106);
+            padding: 20px;
+            margin: auto;
+            max-width: 600px;
+            border-radius: 8px;
+            font-weight: bold;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            background: #007bff;
+            color: #fff;
+            padding: 10px 15px;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+        a:hover {
+            background: #0056b3;
+        }
